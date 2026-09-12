@@ -12,14 +12,21 @@ Manual Testing • UI Automation • API Testing • Mobile Testing • Performa
 
 ## 🧪 About Me
 
-- 🧪 **ISTQB Certified QA Automation Engineer** with 5+ years of experience
-- 🎭 Web Automation: **Selenium, Cypress, Playwright**
-- 📱 Mobile Automation: **Appium, Patrol Framework**
-- 🔌 API & Performance Testing: **Postman, JMeter**
-- ⚙️ Frameworks & Tools: **TestNG, POM, Maven, Allure**
-- 🔄 CI/CD: **Jenkins, GitHub Actions**
-- 🗄️ Database: **MySQL, SQL, DBeaver**
-- 🚀 Currently exploring **Advanced Playwright, TypeScript & SDET practices**
+🧪 **ISTQB Certified QA Automation Engineer** with 5+ years of experience
+
+🎭 Web Automation: **Selenium, Cypress, Playwright**
+
+📱 Mobile Automation: **Appium, Patrol Framework**
+
+🔌 API & Performance Testing: **Postman, JMeter**
+
+⚙️ Frameworks & Tools: **TestNG, POM, Maven, Allure**
+
+🔄 CI/CD: **Jenkins, GitHub Actions**
+
+🗄️ Database: **MySQL, SQL, DBeaver**
+
+🚀 Currently exploring **Advanced Playwright, TypeScript & SDET practices**
 
 ---
 
