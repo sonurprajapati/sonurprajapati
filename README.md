@@ -99,38 +99,15 @@ Manual Testing • UI Automation • API Testing • Mobile Testing • Performa
 
 ## 🧪 Testing Expertise
 
-<table>
-<tr>
-<th>Manual Testing</th>
-<th>Automation & Mobile</th>
-<th>API & Performance</th>
-</tr>
-
-<tr>
-<td>Functional Testing<br><br>Regression Testing</td>
-<td>Selenium WebDriver<br><br>Cypress</td>
-<td>REST API Testing<br><br>Postman</td>
-</tr>
-
-<tr>
-<td>Smoke Testing<br><br>Integration Testing</td>
-<td>Playwright<br><br>Appium</td>
-<td>API Automation<br><br>JMeter</td>
-</tr>
-
-<tr>
-<td>UAT<br><br>System Testing</td>
-<td>Patrol Framework<br><br>Page Object Model</td>
-<td>Performance Testing</td>
-</tr>
-
-<tr>
-<td>Test Case Design</td>
-<td>TestNG</td>
-<td></td>
-</tr>
-
-</table>
+| Manual Testing | Automation Testing | API & Performance |
+|---|---|---|
+| Functional Testing | Selenium WebDriver | REST API Testing |
+| Regression Testing | Cypress | Postman |
+| Smoke Testing | Playwright | API Automation |
+| Integration Testing | Appium | JMeter |
+| UAT | Patrol Framework | Performance Testing |
+| System Testing | Page Object Model | |
+| Test Case Design | TestNG | |
 
 ---
 
