@@ -4,7 +4,7 @@
 
 ### 🧪 QA Automation Engineer | SDET
 
-**ISTQB Certified QA Automation Engineer with 4+ years of experience**
+**ISTQB Certified QA Automation Engineer with 5+ years of experience**
 
 Manual Testing • UI Automation • API Testing • Mobile Testing • Performance Testing • CI/CD
 
