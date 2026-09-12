@@ -185,9 +185,9 @@ Mobile automation covering:
 
 ### 🧪 Test → 🔍 Analyze → 🐛 Identify → 🤖 Automate → 🚀 Deliver
 
-> **Quality is not just about finding bugs.**
->
-> **It's about building confidence in every release.**
+**Quality is not just about finding bugs.**
+
+**It's about building confidence in every release.**
 
 ---
 
