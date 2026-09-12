@@ -171,13 +171,13 @@ Mobile automation covering:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonurpra​japati&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<br/>
+🧪 **QA Automation Projects** • 🤖 **Test Automation** • 🚀 **Continuous Learning**
 
-<img src="https://streak-stats.demolab.com?user=sonurpra​japati&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
