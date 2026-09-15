@@ -157,12 +157,12 @@ Focused on:
 
 ## 📫 Connect With Me
 
-<a href="https://sonuprajapati.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sonuprajapati" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sonuprajapati.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1zN8pRto4EXrN-wk0egVVke-XGLhw-CWe/view?usp=sharing" target="_blank">
